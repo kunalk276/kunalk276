@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Kadam</h1>
-<h3 align="center">A passionate UI/UX Developer, Cloud Practitioner, and Networking enthusiast & JAVA Devloper from India</h3>
+<h3 align="center"> JAVA Devloper ,Cloud Practitioner, and Networking enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalk276&label=Profile%20views&color=0e75b6&style=flat" alt="kunalk276" /> </p>
 
