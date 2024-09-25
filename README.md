@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kunalkadam2762001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j2Qhy5kMsLP5-htl4c4VWgzpMYlXiY_y/view?usp=sharing]
+- 📄 Know about my experiences []
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
