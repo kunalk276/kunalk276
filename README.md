@@ -4,17 +4,19 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Kadam</h1>
-<h3 align="center"> JAVA Devloper ,Cloud Practitioner, and Networking </h3>
+<h3 align="center"> JAVA Developer, Cloud Practitioner, and Networking </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalk276&label=Profile%20views&color=0e75b6&style=flat" alt="kunalk276" /> </p>
 
-- 🔭 I’m currently working on [wakefit(Furniture) java Fullstack with angular ](https://github.com/kunalk276/Full-Stack-Wakefit-Furniture.git)
+- 🔭 I’m currently working on [Wakefit (Furniture) Java Fullstack with Angular](https://github.com/kunalk276/Full-Stack-Wakefit-Furniture.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunalk276](https://github.com/kunalk276)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/kunalk276)
 
 - 📫 How to reach me **kunalkadam2762001@gmail.com**
 
-- 📄 Know about my experiences []
+- 📄 Know about my experiences:  
+  - 🌐 **Portfolio:** [Your Portfolio Link](https://kunal-portfolio-blue.vercel.app/)  
+  - 📜 **Resume:** [Your Resume Link](https://drive.google.com/file/d/1XBOvvy__6n1pM9jc_Hl1gzwGmZ75Jau2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
