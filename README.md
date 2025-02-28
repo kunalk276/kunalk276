@@ -1,5 +1,7 @@
 
-https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Mario GIF">
+</p>
 
 <h1 align="center">Hi 👋, I'm Kunal Kadam</h1>
 <h3 align="center"> JAVA Devloper ,Cloud Practitioner, and Networking </h3>
