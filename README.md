@@ -8,12 +8,40 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalk276&label=Profile%20views&color=0e75b6&style=flat" alt="kunalk276" /> </p>
 
-- 🔭 I’m currently working on [Wakefit (Furniture) Java Fullstack with Angular](https://github.com/kunalk276/Full-Stack-Wakefit-Furniture.git)
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/kunalk276)
+- ✅ I recently completed **[MeetPro – Video Conferencing Application](https://github.com/kunalk276/Video-Conferencing-Application-.git)**  
+  A real-time video conferencing app with screen sharing, in-meeting chat, JWT auth, and WebRTC peer-to-peer communication.  
+  🔗 **Live Demo:** [https://video-conferencing-application-taupe.vercel.app](https://video-conferencing-application-taupe.vercel.app)
 
-- 📫 How to reach me **kunalkadam2762001@gmail.com**
+- ✅ I also completed **[Wakefit (Furniture) – Java Fullstack App](https://github.com/kunalk276/Mywakefitback)**  
+  An e-commerce-like platform for furniture shopping with user roles, login, product catalog, cart, and admin dashboard.  
+  🔗 **Live Demo:** [https://mywakefit.vercel.app/home](https://mywakefit.vercel.app/home)
 
+- 🔭 I’m currently working on **GreenFuel: Waste-to-Biofuel Reward System – Application Workflow (2025)**  
+  A smart waste management platform that incentivizes bio-waste contributors and automates the cycle from collection to biofuel production using role-based workflows.
+
+  **👥 User Roles**
+  - **Admin** – Manages system, assigns orders, views analytics  
+  - **Provider** – Submits bio-waste (Hotels, Market Yards, etc.)  
+  - **Collector** – Picks up waste and updates statuses  
+  - **Farmer** – Buys bio-fertilizer or bio-gas  
+  - **NGO/Distributor** – Manages purchases/donations of bio-products
+
+  **🔁 Key Features**
+  - 📲 Role-based registration with location tracking  
+  - 🧾 Waste submission with auto-reward points  
+  - 🚛 Collection assignment and GPS tracking  
+  - 🏭 Biofuel generation & processing logs  
+  - 💳 Redeem system (UPI, vouchers, donation)  
+  - 📊 Analytics dashboard with live stats  
+  - 🌟 Feedback & referral bonus modules  
+
+  **🛠 Backend**: Spring Boot, PostgreSQL, Firebase, Google Maps API  
+  **🌐 Frontend**: To be developed using **Angular or React** (under evaluation)
+
+- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/kunalk276)
+
+- 📫 How to reach me: **kunalkadam2762001@gmail.com**
 - 📄 Know about my experiences:  
   - 🌐 **Portfolio:** [MY Portfolio Link](https://kunal-portfolio-blue.vercel.app/)  
   - 📜 **Resume:** [MY Resume Link](https://drive.google.com/file/d/1XBOvvy__6n1pM9jc_Hl1gzwGmZ75Jau2/view?usp=sharing)
